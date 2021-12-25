@@ -11,6 +11,8 @@
 		BB6A5B0C2777CD630069C88D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6A5B0B2777CD630069C88D /* ContentView.swift */; };
 		BB6A5B0E2777CD660069C88D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB6A5B0D2777CD660069C88D /* Assets.xcassets */; };
 		BB6A5B112777CD660069C88D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB6A5B102777CD660069C88D /* Preview Assets.xcassets */; };
+		BB6A5B182777D2120069C88D /* tips.json in Resources */ = {isa = PBXBuildFile; fileRef = BB6A5B172777D2120069C88D /* tips.json */; };
+		BB6A5B1A2777D22F0069C88D /* locations.json in Resources */ = {isa = PBXBuildFile; fileRef = BB6A5B192777D22F0069C88D /* locations.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		BB6A5B0B2777CD630069C88D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BB6A5B0D2777CD660069C88D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BB6A5B102777CD660069C88D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BB6A5B172777D2120069C88D /* tips.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = tips.json; sourceTree = "<group>"; };
+		BB6A5B192777D22F0069C88D /* locations.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = locations.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +56,8 @@
 			isa = PBXGroup;
 			children = (
 				BB6A5B092777CD630069C88D /* TravApp.swift */,
+				BB6A5B192777D22F0069C88D /* locations.json */,
+				BB6A5B172777D2120069C88D /* tips.json */,
 				BB6A5B0B2777CD630069C88D /* ContentView.swift */,
 				BB6A5B0D2777CD660069C88D /* Assets.xcassets */,
 				BB6A5B0F2777CD660069C88D /* Preview Content */,
@@ -127,6 +133,8 @@
 			files = (
 				BB6A5B112777CD660069C88D /* Preview Assets.xcassets in Resources */,
 				BB6A5B0E2777CD660069C88D /* Assets.xcassets in Resources */,
+				BB6A5B1A2777D22F0069C88D /* locations.json in Resources */,
+				BB6A5B182777D2120069C88D /* tips.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
