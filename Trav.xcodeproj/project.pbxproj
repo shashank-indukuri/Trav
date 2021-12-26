@@ -16,6 +16,8 @@
 		BB6A5B1C2777F2CF0069C88D /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6A5B1B2777F2CE0069C88D /* Location.swift */; };
 		BB6A5B1E2777F36C0069C88D /* Locations.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6A5B1D2777F36C0069C88D /* Locations.swift */; };
 		BB6A5B202777FBE40069C88D /* WorldMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6A5B1F2777FBE40069C88D /* WorldMap.swift */; };
+		BB6A5B222778FF620069C88D /* Tip.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6A5B212778FF620069C88D /* Tip.swift */; };
+		BB6A5B242778FF940069C88D /* TipsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6A5B232778FF940069C88D /* TipsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +31,8 @@
 		BB6A5B1B2777F2CE0069C88D /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		BB6A5B1D2777F36C0069C88D /* Locations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Locations.swift; sourceTree = "<group>"; };
 		BB6A5B1F2777FBE40069C88D /* WorldMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldMap.swift; sourceTree = "<group>"; };
+		BB6A5B212778FF620069C88D /* Tip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip.swift; sourceTree = "<group>"; };
+		BB6A5B232778FF940069C88D /* TipsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +68,8 @@
 				BB6A5B092777CD630069C88D /* TravApp.swift */,
 				BB6A5B192777D22F0069C88D /* locations.json */,
 				BB6A5B172777D2120069C88D /* tips.json */,
+				BB6A5B212778FF620069C88D /* Tip.swift */,
+				BB6A5B232778FF940069C88D /* TipsView.swift */,
 				BB6A5B0B2777CD630069C88D /* ContentView.swift */,
 				BB6A5B1F2777FBE40069C88D /* WorldMap.swift */,
 				BB6A5B1B2777F2CE0069C88D /* Location.swift */,
@@ -157,6 +163,8 @@
 				BB6A5B0C2777CD630069C88D /* ContentView.swift in Sources */,
 				BB6A5B1C2777F2CF0069C88D /* Location.swift in Sources */,
 				BB6A5B202777FBE40069C88D /* WorldMap.swift in Sources */,
+				BB6A5B222778FF620069C88D /* Tip.swift in Sources */,
+				BB6A5B242778FF940069C88D /* TipsView.swift in Sources */,
 				BB6A5B1E2777F36C0069C88D /* Locations.swift in Sources */,
 				BB6A5B0A2777CD630069C88D /* TravApp.swift in Sources */,
 			);

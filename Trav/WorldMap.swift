@@ -11,7 +11,7 @@ import SwiftUI
 struct WorldMap: View {
     @EnvironmentObject var locations: Locations
     @State var region = MKCoordinateRegion(
-        center: CLLocationCoordinate2D(latitude: 51.50072, longitude: -0.1235),
+        center: CLLocationCoordinate2D(latitude: 35.6532, longitude: -83.5070),
         span: MKCoordinateSpan(latitudeDelta: 40, longitudeDelta: 40)
     )
     var body: some View {
