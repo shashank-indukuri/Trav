@@ -15,6 +15,7 @@
 		BB6A5B1A2777D22F0069C88D /* locations.json in Resources */ = {isa = PBXBuildFile; fileRef = BB6A5B192777D22F0069C88D /* locations.json */; };
 		BB6A5B1C2777F2CF0069C88D /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6A5B1B2777F2CE0069C88D /* Location.swift */; };
 		BB6A5B1E2777F36C0069C88D /* Locations.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6A5B1D2777F36C0069C88D /* Locations.swift */; };
+		BB6A5B202777FBE40069C88D /* WorldMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6A5B1F2777FBE40069C88D /* WorldMap.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		BB6A5B192777D22F0069C88D /* locations.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = locations.json; sourceTree = "<group>"; };
 		BB6A5B1B2777F2CE0069C88D /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		BB6A5B1D2777F36C0069C88D /* Locations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Locations.swift; sourceTree = "<group>"; };
+		BB6A5B1F2777FBE40069C88D /* WorldMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldMap.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				BB6A5B192777D22F0069C88D /* locations.json */,
 				BB6A5B172777D2120069C88D /* tips.json */,
 				BB6A5B0B2777CD630069C88D /* ContentView.swift */,
+				BB6A5B1F2777FBE40069C88D /* WorldMap.swift */,
 				BB6A5B1B2777F2CE0069C88D /* Location.swift */,
 				BB6A5B1D2777F36C0069C88D /* Locations.swift */,
 				BB6A5B0D2777CD660069C88D /* Assets.xcassets */,
@@ -153,6 +156,7 @@
 			files = (
 				BB6A5B0C2777CD630069C88D /* ContentView.swift in Sources */,
 				BB6A5B1C2777F2CF0069C88D /* Location.swift in Sources */,
+				BB6A5B202777FBE40069C88D /* WorldMap.swift in Sources */,
 				BB6A5B1E2777F36C0069C88D /* Locations.swift in Sources */,
 				BB6A5B0A2777CD630069C88D /* TravApp.swift in Sources */,
 			);
