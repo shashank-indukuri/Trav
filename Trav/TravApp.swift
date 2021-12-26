@@ -12,7 +12,7 @@ struct TravApp: App {
     var body: some Scene {
         WindowGroup {
             NavigationView {
-                ContentView()
+                ContentView(location: Locations().primary)
             }
         }
     }
