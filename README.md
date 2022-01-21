@@ -19,7 +19,7 @@ This project was built using these technologies.
 - Swift Programming language
 - Swift UI
 - MapKit
-- Xcode
+- Xcode 13
 
 ## Getting Started
 
