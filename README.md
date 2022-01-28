@@ -1,5 +1,5 @@
 <h2 align="center">
-  Trav (An iOS app)
+  Trav(An iOS app)
 </h2>
 
 <br/>
