@@ -1,5 +1,5 @@
 <h2 align="center">
-  Trav
+  Traveller
 </h2>
 
 <br/>
